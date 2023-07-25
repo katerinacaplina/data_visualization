@@ -1,0 +1,14 @@
+{
+  "name": "d1a79920bde49b4e",
+  "main": "d1a79920bde49b4e@82.js",
+  "version": "82.0.0",
+  "homepage": "https://observablehq.com/d/d1a79920bde49b4e",
+  "author": {
+    "name": "katerinacaplina",
+    "url": "https://observablehq.com/@katerinacaplina-6"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
